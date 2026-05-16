@@ -177,7 +177,11 @@ python main.py
 
 ## 📚 Research Context
 
-This project was developed as part of an undergraduate research exploration into **bias control and algorithmic fairness in child-facing AI systems**, examining how multi-agent orchestration can be used to build robust, context-aware safety pipelines.
+This project was developed as part of an undergraduate research exploration into **bias control and algorithmic fairness in child-facing AI systems**.
+
+The fairness agent is grounded in **Dwork et al. (2012) — "Fairness Through Awareness"**, which defines individual fairness as: similar individuals should be treated similarly. ACSIF operationalises this as a Lipschitz-style distance check — if two child-interaction cases are similar in age, persona, risk level, and emotional state, their pipeline treatment should be proportionally similar. Violations are logged and auditable.
+
+The project examines how multi-agent orchestration can distribute safety responsibility across specialised components, making child-AI systems more interpretable and auditable than single-model approaches.
 
 ---
 
