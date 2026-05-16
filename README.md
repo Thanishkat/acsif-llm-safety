@@ -189,4 +189,4 @@ B.E. Mathematics and Computing, BITS Pilani
 
 ---
 
-*Undergraduate Research Project, 2025. Built to explore how AI systems can be made meaningfully safer for vulnerable users.*
+*Undergraduate Research Project, 2026. Built to explore how AI systems can be made meaningfully safer for vulnerable users.*
